@@ -1,10 +1,10 @@
 # Code 201 Reading Notes
 
-[class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-01.md) 
+[class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-01.md)
 
 [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-02.md)
 
-class 3
+[class 3]( )
 
 class 4
 

@@ -1,13 +1,10 @@
-# From the Duckett HTML book:
 
-  Chapter 2: “Text” (pp.40-61) 
+# From the Duckett HTML book':'
 
-  
-  
+  Chapter 2: “Text” (pp.40-61)
   Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
-
-# From the Duckett JS book:
+# From the Duckett JS book':'
 
     Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 
@@ -24,6 +21,7 @@ booleans can be stored in variables
 From Book:
 
 Here are six rules you must always follow when giving a variable a name:
+
 1. The name must begin with
 a letter, dollar sign ($), or an
 underscore (_). It must not start
@@ -67,8 +65,6 @@ to as camel case). You can also
 use an underscore between each
 word (you cannot use a dash).
 
-
-
     Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 
@@ -87,7 +83,6 @@ From [source](https://chris.beams.io/posts/git-commit/):
 
   ## The seven rules of a great Git commit message
  
-
     * Separate subject from body with a blank line
     
     * Limit the subject line to 50 characters
