@@ -4,7 +4,7 @@
 
 [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-02.md)
 
-[class 3]( )
+[class 3](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-03.md)
 
 class 4
 
