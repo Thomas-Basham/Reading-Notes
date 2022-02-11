@@ -8,7 +8,7 @@
 
 [class 4](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-04.md)
 
-class 5
+[class 5](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-05.md)
 
 class 6
 

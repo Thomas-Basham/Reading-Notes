@@ -40,7 +40,8 @@
 
 ## Blog Post':'
 
-    [JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+       [jpeg vs png vs gif](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+
         NOTE: The post has a TL;DR you might find handy.
 
         use png for logos or images you need to be transparent
