@@ -1,4 +1,4 @@
-# From the Duckett JS book:
+# From the Duckett JS book
 
     Chapter 3: “Object Literals” (pp.100-105)
 
