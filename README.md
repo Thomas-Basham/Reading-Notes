@@ -12,9 +12,9 @@
 
 [class 6](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-06.md)
 
-class 7
+[class 7](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-07.md)
 
-class 8
+[class 8](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-08.md)
 
 class 9
 
