@@ -20,7 +20,7 @@
 
 [class 10](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-10.md)
 
-class 11
+[class 11](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-11.md)
 
 class 12
 
