@@ -1,37 +1,37 @@
 # class 12
 
-## Assorted bits of documentation
+## Assorted bits of documentation:
 
 ### Read this [article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/) on the Chart.js API
 
-  Chart.js is a javascript plugin that lets you make fantastic looking charts
+    Chart.js is a javascript plugin that lets you make fantastic looking charts
 
-  You have to download the chart.js file folder through github
-  Then paste the Chart.min.js file into the folder you are working in
-  Import the script into the html and create a new chart in js
+    You have to download the chart.js file folder through github
+    Then paste the Chart.min.js file into the folder you are working in
+    Import the script into the html and create a new chart in js
 
-  <canvas id="name" width="600" height="400"></canvas> to create a canvas to start. pick width, height, and id
+    < canvas id="name" width="600" height="400"></canvas> to create a canvas to start. pick width, height, and id
 
-  Create a window into the DOM in javascript file
+    Create a window into the DOM in javascript file
 
-  Create a variable with data to finish rendering chart.
-  Example from the article for simple line chart:
+    Create a variable with data to finish rendering chart.
+    Example from the article for simple line chart:
 
-  var buyers = document.getElementById('buyers').getContext('2d');
-  new Chart(buyers).Line(buyerData);
+    var buyers = document.getElementById('buyers').getContext('2d');
+    new Chart(buyers).Line(buyerData);
 
-  var buyerData = {
-  labels : ["January","February","March","April","May","June"],
-  datasets : [
-    {
-    fillColor : "rgba(172,194,132,0.4)",
-    strokeColor : "#ACC26D",
-    pointColor : "#fff",
-    pointStrokeColor : "#9DB86D",
-    data : [203,156,99,251,305,247]
+    var buyerData = {
+    labels : ["January","February","March","April","May","June"],
+    datasets : [
+      {
+      fillColor : "rgba(172,194,132,0.4)",
+      strokeColor : "#ACC26D",
+      pointColor : "#fff",
+      pointStrokeColor : "#9DB86D",
+      data : [203,156,99,251,305,247]
+      }
+    ]
     }
-  ]
-  }
 
 ### [Chart.js docs](http://www.chartjs.org/docs/) You’ll be needing these
 
