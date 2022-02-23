@@ -23,3 +23,5 @@
 [class 11](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-11.md)
 
 [class 12](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-12.md)
+
+[class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-13.md)
