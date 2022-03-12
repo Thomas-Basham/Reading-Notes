@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 201 - Foundations of Software Development
 
 - [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-01.md)
 
@@ -28,4 +28,10 @@
 
 - [class 14a](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14a.md)
 
-[class 14b](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14b.md)
+- [class 14b](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14b.md)
+
+# Code 301 - Intermediate Software Development
+
+- [Pre-work]()
+
+- [class 1]()
