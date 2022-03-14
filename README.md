@@ -32,6 +32,4 @@
 
 # Code 301 - Intermediate Software Development
 
-- [Pre-work]()
-
 - [class 1]()
