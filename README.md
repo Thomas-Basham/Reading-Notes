@@ -30,6 +30,8 @@
 
 - [class 14b](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14b.md)
 
-# Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development
 
 - [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/Code-301/class-01.md)
+
+- [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/Code-301/class-02.md)
