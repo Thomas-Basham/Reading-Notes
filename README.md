@@ -24,14 +24,16 @@
 
 - [class 12](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-12.md)
 
-- [class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-13.md)
+- [class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/class-13.md)
 
-- [class 14a](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14a.md)
+- [class 14a](https://github.com/bashamtg/Reading-Notes/blob/main//Reading%20Notes/Code-201/class-14a.md)
 
-- [class 14b](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-14b.md)
+- [class 14b](https://github.com/bashamtg/Reading-Notes/blob/main//Reading%20Notes/Code-201/class-14b.md)
 
 ## Code 301 - Intermediate Software Development
 
 - [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-01.md)
 
 - [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-02.md)
+
+- [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-03.md)
