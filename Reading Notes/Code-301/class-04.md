@@ -30,7 +30,7 @@
 
     x===y ? console.log(true) : console.log(false);
 
-## Bookmark/Skima
+## Bookmark/Skim
 
     [React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
     [React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
