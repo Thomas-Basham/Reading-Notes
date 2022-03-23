@@ -56,7 +56,6 @@ Did you get your API key?
 
     YES!
 
-
 ### [The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 
 Did you get your API key?
