@@ -49,3 +49,5 @@
 - [class 8](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-08.md)
 
 - [class 9](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-09.md)
+
+- [class 10](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-10.md)

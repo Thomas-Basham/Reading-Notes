@@ -15,7 +15,7 @@
 ### What are the benefits of a pure function?
 
     Pure functions are stable, consistent, and predictable.
-    
+
 ### What is immutability?
 
     Unchanging over time or unable to be changed.
