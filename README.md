@@ -52,4 +52,4 @@
 
 - [class 10](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-10.md)
 
-- [class 10](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-10.md)
+- [class 10](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-11.md)
