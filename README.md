@@ -57,3 +57,5 @@
 - [class 12](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-12.md)
 
 - [class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-13.md)
+
+- [class 14](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-14.md)
