@@ -5,7 +5,7 @@
 ### In your own words, describe what each group of status code represents
 
       100’s = The request will fail before sending
-      200’s = Sucess!!
+      200’s = Success!!
       300’s = The source was redirected
       400’s = Bad URL
       500’s = Server down

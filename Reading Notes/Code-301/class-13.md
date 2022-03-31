@@ -24,7 +24,7 @@
 
 ### If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
-    1. Install Dependenceies
+    1. Install Dependencies
     2. Establish routes with REST Verbs
     3. Access data in database and bring it in
     4. Create Schema for data

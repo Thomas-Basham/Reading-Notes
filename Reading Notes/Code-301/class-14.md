@@ -22,6 +22,12 @@
 
 ### When are diversity efforts most successful?
 
+    Diversity efforts are most successful when they’re driven by a commitment from company leaders.
+
 ### Why do diverse companies perform better?
 
+    According to Scott E. Page, professor of complex systems, political science and economics at the University of Michigan: "Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it."
+
 ### Give an example of how a diverse company can serve a diverse user base or vise-versa
+
+    If more of one type of person were working for a company than that person could have ideas for effectively engaging their type of person 
