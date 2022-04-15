@@ -1,10 +1,10 @@
 # Code 201 - Foundations of Software Development
 
-- [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-01.md)
+- [class 1](./Reading%20Notes/Code-201/class-01.md)
 
-- [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-02.md)
+- [class 2](./Reading%20Notes/Code-201/class-02.md)
 
-- [class 3](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-03.md)
+- [class 3](./Reading%20Notes/Code-201/class-03.md)
 
 - [class 4](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-04.md)
 
@@ -24,7 +24,7 @@
 
 - [class 12](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-12.md)
 
-- [class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/class-13.md)
+- [class 13](https://github.com/bashamtg/Reading-Notes/blob/main/Code%20201/Reading%20Notes/class-13.md)
 
 - [class 14a](https://github.com/bashamtg/Reading-Notes/blob/main//Reading%20Notes/Code-201/class-14a.md)
 
@@ -32,11 +32,11 @@
 
 ## Code 301 - Intermediate Software Development
 
-- [class 1](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-01.md)
+- [class 1](./Reading%20Notes/Code-301/class-01.md)
 
-- [class 2](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-02.md)
+- [class 2](./Reading%20Notes/Code-301/class-02.md)
 
-- [class 3](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-03.md)
+- [class 3](./Reading%20Notes/Code-301/class-03.md)
 
 - [class 4](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-04.md)
 
@@ -61,3 +61,7 @@
 - [class 14](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-14.md)
 
 - [class 15](https://github.com/bashamtg/Reading-Notes/blob/main/Reading%20Notes/Code-301/class-15.md)
+
+## Code 401 - Advanced Software Development in Python
+
+- [class 1](./Reading%20Notes/Code-401/class-01.md)
