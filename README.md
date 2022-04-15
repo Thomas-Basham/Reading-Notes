@@ -65,4 +65,7 @@
 ## Code 401 - Advanced Software Development in Python
 
 - [Growth](./Reading%20Notes/Code-401/growth.md)
+
+- [Terminal Prep](./Reading%20Notes/Code-401/Terminal-Stuff.md)
+
 - [class 1](./Reading%20Notes/Code-401/class-01.md)
