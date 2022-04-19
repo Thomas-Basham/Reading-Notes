@@ -71,3 +71,5 @@
 - [SQL Practice](./Reading%20Notes/Code-401/sql-practice.md)
 
 - [class 1](./Reading%20Notes/Code-401/class-01.md)
+
+- [class 2](./Reading%20Notes/Code-401/class-02.md)
