@@ -75,3 +75,5 @@
 - [class 2](./Reading%20Notes/Code-401/class-02.md)
 
 - [class 3](./Reading%20Notes/Code-401/class-03.md)
+
+- [class 4](./Reading%20Notes/Code-401/class-04.md)
