@@ -85,3 +85,5 @@
 - [class 7](./Reading%20Notes/Code-401/class-07.md)
 
 - [class 8](./Reading%20Notes/Code-401/class-08.md)
+
+- [class 9](./Reading%20Notes/Code-401/class-09.md)
