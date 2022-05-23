@@ -105,3 +105,5 @@
 - [class 18](./Reading%20Notes/Code-401/class-18.md)
 
 - [class 19](./Reading%20Notes/Code-401/class-19.md)
+
+- [class 26](./Reading%20Notes/Code-401/class-26.md)
