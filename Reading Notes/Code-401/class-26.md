@@ -43,7 +43,15 @@
 ## Bookmark and Review
 
 ### [What is Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
-
+- Django is a high-level Python web framework that enables rapid development of secure and maintainable websites
+- Django helps you write software that is:
+  - Complete
+  - Versatile
+  - Secure
+  - Scalable
+  - Maintainable
+  - Portable
+  
 ### [First Django App - Part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 
 ### [First Django App - Part 2](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
