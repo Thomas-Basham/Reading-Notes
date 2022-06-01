@@ -113,5 +113,7 @@
 - [class 28](./Reading%20Notes/Code-401/class-28.md)
 
 - [class 31](./Reading%20Notes/Code-401/class-31.md)
-- 
+
 - [class 32](./Reading%20Notes/Code-401/class-32.md)
+
+- [class 33](./Reading%20Notes/Code-401/class-33.md)
