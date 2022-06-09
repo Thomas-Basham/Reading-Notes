@@ -125,3 +125,5 @@
 - [class 37](./Reading%20Notes/Code-401/class-37.md)
 
 - [class 38](./Reading%20Notes/Code-401/class-38.md)
+
+- [class 39](./Reading%20Notes/Code-401/class-39.md)
