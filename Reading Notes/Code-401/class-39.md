@@ -42,7 +42,12 @@
 ### [Why I’m using Next.js in 2020](https://www.youtube.com/watch?v=rtgbaKBhdkk)
 - Nextjs allows you to decide weather you want to render on the client side or server side 
 - Allows you to develop static websites, given dynamic data
-### [Learn useContext In 13 Minutes](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
+- Nextjs and Reactjs give phenomenal performance compared to other web frameworks
+
+### [Learn useContext In 13 Minutes](https://www.youtubez.com/watch?v=5LrDIWkK_Bc)
+- The context.Provider to wrap all of the code that needs access in the context
+- Context is used for passing props globally
+- useContext in functional components is much simpler than with class components
 ## Bookmark and Review
 
 ### [Next.js Examples](https://github.com/vercel/next.js/tree/canary/examples)
